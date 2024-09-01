@@ -11,7 +11,6 @@ This repository contains a simple implementation of the K-Means clustering algor
 - [Functions](#functions)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
